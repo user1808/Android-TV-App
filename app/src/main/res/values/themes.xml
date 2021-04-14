@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="Theme.AndroidTV3" parent="@style/Theme.Leanback" />
+    <color name="header_background">#a000fd</color>
+    <color name="search_color">#00c0f0</color>
+    <color name="default_background">#0000ff</color>
+    <color name="guidance_title">#00f050</color>
+    <color name="guidance_breadcrumb">#639472</color>
+    <color name="guidance_description">#9ab36f</color>
+</resources>

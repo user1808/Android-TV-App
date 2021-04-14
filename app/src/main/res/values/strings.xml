@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AndroidTV3</string>
+    <string name="action_settings">Settings</string>
+    <string name="dismiss_error">Powrót</string>
+    <string name="fiat_text">Fiat 105P!</string>
+    <string name="polonez_text">FSO Polonez Atu Plus!</string>
+    <string name="syrena_text">FSO Syrena 105!</string>
+    <string name="error">Coś poszło nie tak</string>
+    <string name="wartburg_text">Wartburg 311!</string>
+    <string name="bmw_text">BMW E21!</string>
+    <string name="garbus_text">Volkswagen Garbus!</string>
+    <string name="alfa_romeo_text">Alfa Romeo 8C!</string>
+    <string name="maserati_text">Maserati Sebring!</string>
+    <string name="alfa_romeo_text_montreal">Alfa Romeo Montreal!</string>
+    <string name="toyota_ae86_text">Toyota AE86!</string>
+    <string name="toyota_chaser_text">Toyota Chaser!</string>
+    <string name="subaru_text">Subaru Impreza!</string>
+    <string name="bentley_text">Bentley Continental GT!</string>
+    <string name="jaguar_text">Jaguar F-Type!</string>
+    <string name="aston_martin_text">Aston Martin Valkyrie!</string>
+    <string name="bugatti_text">Bugatti Divo!</string>
+    <string name="alpine_text">Alpine A110!</string>
+    <string name="renault_text">Renault Megane IV!</string>
+    <string name="playback_tag">playback</string>
+</resources>
